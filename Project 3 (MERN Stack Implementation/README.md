@@ -1,6 +1,6 @@
 <h2> Project 3: MERN (MongoDB Express React NodeJS) Stack Implementation </h2>
 
-<h4> Step 1 </h2>
+<h4> Step 1: Backend Configuration </h2>
 
 Commands
 
